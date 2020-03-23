@@ -1,17 +1,16 @@
-# KBS-Project
-
+# Analysis of air quality 
 1) Research question:  what is the group trying to learn or question to answer? Who is interested (audience)?
 
-We are trying to learn how learn about the air quality across United states based on the historical date and determine the factors affecting it .This analysis can provide insight tp
+We are trying to learn how learn about the air quality across United states based on the historical date and determine the factors affecting it .This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution.
 
 2)  Domain and Data: 
-Domain:climate 
+Domain:Climate and Health care
 
 Data source: Historical Air Quality
 https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&q=air&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d
 
       a)  preprocessing that may be necessary (careful here)
-      Most of the data is almost cleaned as it is almost clean 
+      Most of the data is almost cleaned as it is almost clean as we are using data from google 
 
       b)  size of data - data must be “big” data (millions of records)
 
@@ -28,5 +27,4 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
            5)  Steps for production model
 
            6)  Final Dashboard for User Group
-
-(note:  analysis must use Hadoop, Big Query, PySpark, as many tools as possible from class)
+ 
