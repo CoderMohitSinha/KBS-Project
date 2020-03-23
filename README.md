@@ -18,13 +18,15 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
       c)  tentative plan for analysis on GCP
 
            1)  EDA and Preprocessing
-
+            we will check if we need any transformation or conversion of data and plot various graphs and plots to analyze the
+            data.
            2)  Dashboard for User group, Dashboard for Data Engineers
-
+               we will create a dashboard to 
            3)  GCP further processing - ML
+             We will try to predict the  air quality based on the historic  
 
            4)  Evaluation of results
-
+             We will test the model with testing dataset and find the accuracy of the model 
            5)  Steps for production model
 
            6)  Final Dashboard for User Group
