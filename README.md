@@ -10,10 +10,10 @@ Data source: Historical Air Quality
 https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&q=air&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d
 
       a)  preprocessing that may be necessary (careful here)
-      Most of the data is almost cleaned as it is almost clean as we are using data from google 
+      Most of the data is almost cleaned as it is almost clean as we are using data from google public datasets
 
       b)  size of data - data must be “big” data (millions of records)
-            Its a Big data
+            Its a Big data from google public datasets
 
       c)  tentative plan for analysis on GCP
 
@@ -21,7 +21,7 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
             we will check if we need any transformation or conversion of data and plot various graphs and plots to analyze the
             data.
            2)  Dashboard for User group, Dashboard for Data Engineers
-               we will create a dashboard to 
+               we will create a dashboard to visualize the outcome of our analysis
            3)  GCP further processing - ML
              We will try to predict the  air quality based on the historic  
 
