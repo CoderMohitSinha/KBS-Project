@@ -13,6 +13,7 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
       Most of the data is almost cleaned as it is almost clean as we are using data from google 
 
       b)  size of data - data must be “big” data (millions of records)
+            Its a Big data
 
       c)  tentative plan for analysis on GCP
 
