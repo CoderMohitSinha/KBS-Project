@@ -22,6 +22,13 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
             data.
            2)  Dashboard for User group, Dashboard for Data Engineers
                we will create a dashboard to visualize the outcome of our analysis
+           User group:
+           - Visualization to that displays events on a map with timeline slider.
+           - Correlation matrices between event types and observation percentages in relation to time
+           Data Engineers
+           - Visualizations with additional attributes such as metrics and methods used in measuring air quality (helps make sure that               everything is consistent for user group)
+           - Filtering tools for certification indicators (attribute used to validate accuracy of information)
+           
            3)  GCP further processing - ML
              We will try to predict the  air quality based on the historic  
 
@@ -30,4 +37,6 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
            5)  Steps for production model
 
            6)  Final Dashboard for User Group
+           - Visualization to that displays events on a map with timeline slider.
+           - Correlation matrices between event types and observation percentages in relation to time
  
