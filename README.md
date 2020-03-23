@@ -35,6 +35,10 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
            4)  Evaluation of results
              We will test the model with testing dataset and find the accuracy of the model 
            5)  Steps for production model
+           - build model
+           - test model with cross validation
+           - upload model to the cloud pipeline
+           - optimize model if necessary
 
            6)  Final Dashboard for User Group
            - Visualization to that displays events on a map with timeline slider.
