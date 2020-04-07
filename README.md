@@ -32,15 +32,21 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
            3)  GCP further processing - ML
              We will try to predict the  air quality based on the historic  
 
-           4)  Evaluation of results
-             We will test the model with testing dataset and find the accuracy of the model 
+           4) plan for data ingest
+           The data will be stored in gcp bucket and will be queried using BigQuery to get filtered dataset,
+            
+           Evaluation of results
+             We will test the model with testing dataset and find the accuracy of the model using various error metrics like absolute mean error or root mean square eror . The lower error metric value, the better the model predicts the response
+             
            5)  Steps for production model
-           - build model
+           - build model  we will use pySpark to read and write data from and to BigQuery 
            - test model with cross validation
            - upload model to the cloud pipeline
            - optimize model if necessary
-
+          
            6)  Final Dashboard for User Group
            - Visualization to that displays events on a map with timeline slider.
            - Correlation matrices between event types and observation percentages in relation to time
  
+
+           The data will be stored in gcp bucket and will be queried using BigQuery to get filtered dataset,
