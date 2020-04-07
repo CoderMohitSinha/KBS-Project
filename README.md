@@ -1,7 +1,11 @@
 # Analysis of air quality 
 1) Research question:  what is the group trying to learn or question to answer? Who is interested (audience)?
 
-We are trying to learn how learn about the air quality across United states based on the historical date and determine the factors affecting it .This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution.
+We are trying to learn how learn about the air quality across United states based on the historical date and determine the factors affecting it .This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution.We are also trying to combine the analysis with respiratory disease data set to find how air pollution have effect on respiratory diseases 
+Research 
+1. https://www.airnow.gov/index.cfm?action=aqi_brochure.index
+2. https://www.technicaljournalsonline.com/ijeat/VOL%20I/IJAET%20VOL%20I%20ISSUE%20II%20JULY%20SEPTEMBER%202010/Article%2011.pdf
+3. https://www.annualreviews.org/doi/pdf/10.1146/annurev.pu.15.050194.000543 
 
 2)  Domain and Data: 
 Domain:Climate and Health care
