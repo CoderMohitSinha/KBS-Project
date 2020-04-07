@@ -48,8 +48,7 @@ https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?
            - Visualization to that displays events on a map with timeline slider.
            - Correlation matrices between event types and observation percentages in relation to time
       7)  Research citations:   
-      1. https://www.airnow.gov/index.cfm?action=aqi_brochure.index
-                                    2.https://www.technicaljournalsonline.com/ijeat/VOL%20I/IJAET%20VOL%20I%20ISSUE%20II%20JULY%20SEPTEMBER%202010/Article%2011.pdf
+      1. https://www.airnow.gov/index.cfm?action=aqi_brochure.index           2.https://www.technicaljournalsonline.com/ijeat/VOL%20I/IJAET%20VOL%20I%20ISSUE%20II%20JULY%20SEPTEMBER%202010/Article%2011.pdf
       3. https://www.annualreviews.org/doi/pdf/10.1146/annurev.pu.15.050194.000543 
 
 
