@@ -3,7 +3,8 @@
 
 #### 1. Research question:  what is the group trying to learn or question to answer? Who is interested (audience)?
 
-We are trying to learn how learn about the air quality across United states based on the historical date and determine the factors affecting it. This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution. We are also trying to combine the analysis with respiratory disease data set to find how air pollution can have effect on respiratory diseases. Our target audience is EPA and anyone who wants to learn its about its effects towards health.
+We are trying to learn how learn about the air quality across United states based on the historical date and determine the factors affecting it. This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution. We are also trying to combine the analysis with respiratory disease data set to find how air pollution can have effect on respiratory diseases. 
+Our target audience is Environmental Protection Agency and anyone who wants to learn about effects of Air Pollution towards health.
 
 #### 2. Domain and Data: 
 
