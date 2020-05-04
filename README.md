@@ -12,8 +12,8 @@ Our target audience is Environmental Protection Agency and anyone who wants to l
 Domain: Climate and Health care
 
 Data sources: 
-(Historical Air Quality)[https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&q=air&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d]
-(Respiratory Diseases)[http://ghdx.healthdata.org/record/ihme-data/united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014]
+[Historical Air Quality](https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&q=air&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d)
+[Respiratory Diseases](http://ghdx.healthdata.org/record/ihme-data/united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014)
 
 ## Preprocessing:
 
