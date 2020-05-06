@@ -1,19 +1,19 @@
-# Impact of air quality on respiratory disease
+# Impact of air quality on temperature
 # Team members :Raihan Nayeem, Saad Khan, Narendra Pahuja, Akshay Popli, and Gopal Sharma.
 
 ## 1. Research question:  what is the group trying to learn or question to answer?
-This analysis is about the air quality across United states based on the historical date and it will determine various factors affecting it. This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution. Since air pollution is a major reason for some of respiratory diseases. We are  trying to combine the air quality analysis with respiratory disease data set to find how air pollution can have an effect on respiratory diseases. 
+This analysis is about the air quality across United states based on the historical date and it will determine various factors affecting it. This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution. Since air pollution is a major reason for global warming and temperature variations. We are  trying to combine the air quality analysis with temperature  data to find how air pollution can have an effect on temperature 
 
 ## Target Audience:
-Our target audience is Environmental Protection Agency and anyone who wants to learn about effects of Air Pollution towards health.
+Our target audience is Environmental Protection Agency and anyone who wants to learn about effects of Air Pollution towards temperature.
 
 ## 2. Domain and Data: 
 
-Domain: Climate and Health care
+Domain: Climate and environment
 
 Data sources: 
 [Historical Air Quality](https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&q=air&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d)
-[Respiratory Diseases](http://ghdx.healthdata.org/record/ihme-data/united-states-chronic-respiratory-disease-mortality-rates-county-1980-2014)
+
 
 ## Preprocessing:
 
