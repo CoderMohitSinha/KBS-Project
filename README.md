@@ -47,7 +47,7 @@ It meets big data requirements as it is a Big data from google public datasets.
     We will mainly be creating dashboards to visualize the outcome of our analysis. Here is how we plan to organize our
     User group:
 
-    - Visualization to that displays events on a map with timeline slider.
+    - Visualization to that displays various factors affecting the air quality.
     - Correlation matrices between event types and observation percentages in relation to time
     Data Engineers
     - Visualizations with additional attributes such as metrics and methods used in measuring air quality (helps make sure          that  everything is consistent for user group)
@@ -55,7 +55,7 @@ It meets big data requirements as it is a Big data from google public datasets.
 
 ## 3.  GCP further processing - ML
 
-    We will try to predict the  air quality based on the historic  
+    We will try to predict the impact on temperature by  air quality based on the historic  
 
 ## 4. Plan for data ingest:
 
@@ -66,9 +66,9 @@ It meets big data requirements as it is a Big data from google public datasets.
 
  
 ## 5.  Steps for production model
-    - build model  we will use pySpark to read and write data from and to BigQuery 
+    - build model  we will use BigQuery to query the big data 
     - test model with cross validation
-    - upload model to the cloud pipeline
+    - plot the model output using various plots
     - optimize model if necessary
 
 ## 6. Final Dashboard for User Group
