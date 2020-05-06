@@ -50,7 +50,7 @@ It meets big data requirements as it is a Big data from google public datasets.
     - Visualization to that displays events on a map with timeline slider.
     - Correlation matrices between event types and observation percentages in relation to time
     Data Engineers
-    - Visualizations with additional attributes such as metrics and methods used in measuring air quality (helps make sure that               everything is consistent for user group)
+    - Visualizations with additional attributes such as metrics and methods used in measuring air quality (helps make sure          that  everything is consistent for user group)
     - Filtering tools for certification indicators (attribute used to validate accuracy of information)
 
 ## 3.  GCP further processing - ML
@@ -72,7 +72,7 @@ It meets big data requirements as it is a Big data from google public datasets.
     - optimize model if necessary
 
 ## 6. Final Dashboard for User Group
-    - Visualization to that displays events on a map with timeline slider.
+    - Visualization to that displays various factors affecting the air quality.
     - Correlation matrices between event types and observation percentages in relation to time
 
 Research citations:   
