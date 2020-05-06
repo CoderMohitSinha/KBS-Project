@@ -1,5 +1,5 @@
 # Impact of air quality on temperature
-# Team members :Raihan Nayeem, Saad Khan, Narendra Pahuja, Akshay Popli, and Gopal Sharma.
+# Team members: Raihan Nayeem, Saad Khan, Narendra Pahuja, Akshay Popli, and Gopal Sharma.
 
 ## 1. Research question:  what is the group trying to learn or question to answer?
 This analysis is about the air quality across United states based on the historical date and it will determine various factors affecting it. This analysis can provide insight on which areas are affected most by air pollution and such analysis can help Environmental Protection Agency to take appropriate action to control the pollution. Since air pollution is a major reason for global warming and temperature variations. We are  trying to combine the air quality analysis with temperature  data to find how air pollution can have an effect on temperature 
@@ -70,6 +70,8 @@ It meets big data requirements as it is a Big data from google public datasets.
     - test model with cross validation
     - plot the model output using various plots
     - optimize model if necessary
+    
+For the machine learning pipeline, we started with a jupyter notebook on google colab. We queued jobs of Select SQL Queries from Google BigQuery datsets and tested various machine learning models. More on this [here](https://github.com/narendrapahuja/KBS-Project/blob/master/air_quality_dataset_prediction.ipynb). Finally we used these jupyter notebooks on Google DataFlow and apache beam to get results for our final dashboard.
 
 ## 6. Final Dashboard for User Group
     - Visualization to that displays various factors affecting the air quality.
